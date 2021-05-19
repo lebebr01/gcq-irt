@@ -86,3 +86,5 @@ tcc_sex.*
 test_curves.*
 ability.*
 irt_parameters.*
+paper/
+*.Rproj
